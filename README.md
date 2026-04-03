@@ -81,7 +81,7 @@ healthcare-chatbot/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/healthcare-chatbot.git
+git clone https://github.com/jenenhasan/healthcare-chatbot.git
 cd healthcare-chatbot
 pip install -r requirements.txt
 ```
